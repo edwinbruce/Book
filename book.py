@@ -1,5 +1,7 @@
 #import GUI library
 from tkinter import *
+
+#for Python V3 you must explicitely load the messagebox
 import tkinter.messagebox
 
 #create the book class incorporating instance variables and methods
